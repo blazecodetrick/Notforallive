@@ -1,0 +1,6 @@
+pyrofork
+tgcrypto
+py-tgcalls
+aiohttp
+flask
+gunicorn
